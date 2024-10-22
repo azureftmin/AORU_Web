@@ -1,2 +1,2 @@
-# AORU_Web
- 煽るWEB
+## AORU_Web
+__人を煽るためのWEBサイト・・・__
